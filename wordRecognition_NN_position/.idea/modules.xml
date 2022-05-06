@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/wordRecognition_HMM_position/.idea/wordRecognition_HMM.iml" filepath="E:/wordRecognition_HMM_position/.idea/wordRecognition_HMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wordRecognition_NN.iml" filepath="$PROJECT_DIR$/.idea/wordRecognition_NN.iml" />
+    </modules>
+  </component>
+</project>
