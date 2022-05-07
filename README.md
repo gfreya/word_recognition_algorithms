@@ -1,5 +1,5 @@
 # word_recognition_algorithms
 
-## packages:
+**packages** :
 <br>numpy
 <br>pandas
