@@ -27,10 +27,10 @@
 <br>As for the ‘Data Preparation’ part for bi-classification task, the main goal is to take the clean words as the input and get the random sequence of length 30 with the classification label 0 or 1. The input and the output formats are generated as following:
 <br>**Input clean data**: ‘policeman’&nbsp;‘beat’
 <br>**Output format**: sequence  &nbsp;&nbsp;&nbsp;label
-<br>policemanxarcwwhrwflzvukenkxoh &nbsp;&nbsp;&nbsp;   1 
+<br>policemanxarcwwhrwflzvukenkxoh &nbsp;&nbsp;&nbsp;  1 
 <br>juypbcsnfbziaudmufkmyirkpmrzqm &nbsp;&nbsp;&nbsp;  0 
 <br>cbmmktfcufzmrtwsmxklgyzfbeattp &nbsp;&nbsp;&nbsp;  1 
-<br>fjfecinqawsjqrcsmlxygazedfunql &nbsp;&nbsp;&nbsp; 0 
+<br>fjfecinqawsjqrcsmlxygazedfunql &nbsp;&nbsp;&nbsp;  0 
 <br>hmmnvaifkfiplggyyfdyubvzgdexzz &nbsp;&nbsp;&nbsp;  0 
 <br>hmmnvaifkfiplggyyfdyubvzgdexzz &nbsp;&nbsp;&nbsp;  1
 
