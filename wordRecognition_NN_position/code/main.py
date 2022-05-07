@@ -60,18 +60,6 @@ def nn_model(train_x,train_y,test_x):
 	model.add(Dense(30,init='uniform',activation='softmax'))
 
 
-	'''
-	model = Sequential()
-	model.add(SimpleRNN(128, return_sequences=False,
-						input_shape=(train_x.shape[-1], 30), unroll=True))
-	model.add(Dropout(0.2))
-	#model.add(LSTM(256, return_sequences=True))
-	model.add(Dropout(0.2))
-	model.add(Dense(30))
-	# model.add(Dense(1000))
-	model.add(Activation('softmax'))
-	'''
-
 	model.summary()
 	#earlystop = EarlyStopping(monitor = 'loss',patience = 3)
 	model.compile(optimizer = 'adam',loss = 'categorical_crossentropy',metrics = ['accuracy'])
