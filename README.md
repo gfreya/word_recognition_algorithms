@@ -30,7 +30,7 @@
 <br>policemanxarcwwhrwflzvukenkxoh &nbsp;&nbsp;&nbsp;  1 
 <br>juypbcsnfbziaudmufkmyirkpmrzqm &nbsp;&nbsp;&nbsp;   0 
 <br>cbmmktfcufzmrtwsmxklgyzfbeattp &nbsp;&nbsp;&nbsp;  1 
-<br>fjfecinqawsjqrcsmlxygazedfunql &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    0 
+<br>fjfecinqawsjqrcsmlxygazedfunql &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 
 <br>hmmnvaifkfiplggyyfdyubvzgdexzz &nbsp;&nbsp;&nbsp;  0 
 <br>hmmnvaifkfiplggyyfdyubvzgdexzz &nbsp;&nbsp;&nbsp;  1
 
